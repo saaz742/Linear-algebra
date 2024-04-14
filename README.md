@@ -1,15 +1,13 @@
 # Linear-algebra
 
 
-Sharif university
+Sharif university - Fall 2021
+ 
+Computer engineering - Dr.Rabiee
 
-computer engineering
 
-Dr.Rabiee
 
-fall 2021
 
-Sara Azarnoush 
 
 
 
