@@ -1,4 +1,4 @@
-# Linear-algebra
+# Linear-Algebra
 
 
 Sharif University - Fall 2021
